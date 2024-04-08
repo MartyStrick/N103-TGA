@@ -1,5 +1,6 @@
 # Executables
 *.exe
+*.cfg
 
 # Metadata
 *.aliases
