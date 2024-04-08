@@ -1,0 +1,7 @@
+# Executables
+*.exe
+
+# Metadata
+*.aliases
+*.lvlps
+.cache/
