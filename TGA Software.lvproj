@@ -151,6 +151,44 @@
 			<Item Name="ViPath.vi" Type="VI" URL="../TGA_Furnace_v230504.llb/ViPath.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
+			<Item Name="TGA Logger" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{CF3D7911-C6AD-4915-BC74-0115D666713A}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{E8257471-A4BE-4006-A30C-A9311C3939D9}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{DFF571A7-4992-458D-A9EC-7498AFC02AFF}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">TGA Logger</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/TGA Logger</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{AC3B2DB4-B533-4A83-B092-0DF121319FBC}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">TGA Logger.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/TGA Logger/TGA Logger.exe</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/TGA Logger/data</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{4EA4AD11-C65B-467E-86C2-851E50AC8996}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/TGA_Main.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">TGA Logger</Property>
+				<Property Name="TgtF_internalName" Type="Str">TGA Logger</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2025 </Property>
+				<Property Name="TgtF_productName" Type="Str">TGA Logger</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{EE3CD72B-4404-402B-95DA-0025E0BA2F70}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">TGA Logger.exe</Property>
+			</Item>
 			<Item Name="TGA MFCs + Solenoid Valves Test" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{BA8C54C5-9CEF-4C2C-A841-4EB989B63CF4}</Property>
