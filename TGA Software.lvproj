@@ -100,6 +100,7 @@
 			<Item Name="Euro_SP_Adjust_dialog.vi" Type="VI" URL="../TGA_Furnace_v230504.llb/Euro_SP_Adjust_dialog.vi"/>
 			<Item Name="Eurotherm_3200_Modbus_Registers.ctl" Type="VI" URL="../TGA_Furnace_v230504.llb/Eurotherm_3200_Modbus_Registers.ctl"/>
 			<Item Name="Eurotherm_3200_Modbus_Writeable.ctl" Type="VI" URL="../TGA_Furnace_v230504.llb/Eurotherm_3200_Modbus_Writeable.ctl"/>
+			<Item Name="Eurotherm_3200_Programmer.vi" Type="VI" URL="../TGA_Furnace_v230504.llb/Eurotherm_3200_Programmer.vi"/>
 			<Item Name="Eurotherm_3200_Read_Decimals.vi" Type="VI" URL="../TGA_Furnace_v230504.llb/Eurotherm_3200_Read_Decimals.vi"/>
 			<Item Name="Eurotherm_3200_Write_Register.vi" Type="VI" URL="../TGA_Furnace_v230504.llb/Eurotherm_3200_Write_Register.vi"/>
 			<Item Name="Eurotherm_3504_FP.ctl" Type="VI" URL="../TGA_Furnace_v230504.llb/Eurotherm_3504_FP.ctl"/>
