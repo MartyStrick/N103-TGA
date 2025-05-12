@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="disp2000.ttf" Type="Document" URL="../other resources/disp2000.ttf"/>
+		<Item Name="Eurotherm_3200_ProgrammerV2.vi" Type="VI" URL="../TGA_Furnace_v230504.llb/Eurotherm_3200_ProgrammerV2.vi"/>
 		<Item Name="Radwag_Cmd_Error_Dialog.vit" Type="VI" URL="../Radwag_Cmd_Error_Dialog.vit"/>
 		<Item Name="Test_Adam_Out_Loop.vi" Type="VI" URL="../Test_Adam_Out_Loop.vi"/>
 		<Item Name="TGA_Config_Editor.vi" Type="VI" URL="../TGA_Furnace_v230504.llb/TGA_Config_Editor.vi"/>
