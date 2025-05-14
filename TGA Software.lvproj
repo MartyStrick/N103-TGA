@@ -13,6 +13,7 @@
 		<Item Name="disp2000.ttf" Type="Document" URL="../other resources/disp2000.ttf"/>
 		<Item Name="Euro_Cmd_cluster_2.ctl" Type="VI" URL="../TGA_Furnace_v230504.llb/Euro_Cmd_cluster_2.ctl"/>
 		<Item Name="Euro_Data_cluster2.ctl" Type="VI" URL="../TGA_Furnace_v230504.llb/Euro_Data_cluster2.ctl"/>
+		<Item Name="Euro_Programmer_Writes.vi" Type="VI" URL="../TGA_Furnace_v230504.llb/Euro_Programmer_Writes.vi"/>
 		<Item Name="Eurotherm_3200_Programmer.vi" Type="VI" URL="../TGA_Furnace_v230504.llb/Eurotherm_3200_Programmer.vi"/>
 		<Item Name="Eurotherm_IO_Loop.vi" Type="VI" URL="../TGA_Furnace_v230504.llb/Eurotherm_IO_Loop.vi"/>
 		<Item Name="Radwag_Cmd_Error_Dialog.vit" Type="VI" URL="../Radwag_Cmd_Error_Dialog.vit"/>
