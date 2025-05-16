@@ -234,6 +234,44 @@
 				<Property Name="TgtF_targetfileGUID" Type="Str">{5EC9A80F-A95A-4E86-A091-F5F1EF9EAF94}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">TGA_MFCs_Test.exe</Property>
 			</Item>
+			<Item Name="TGA Programmer" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{0B9FA194-72F3-4D18-8054-5CA9E76BD296}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{8333600F-AA71-4B0C-944E-4D75767769DF}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{886A40DF-F9D9-47D4-899E-F697F5B7F5F8}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">TGA Programmer</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/TGA Programmer</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{7B387096-C221-4968-A1B4-7282F71F70BE}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">TGA Programmer.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/TGA Programmer/TGA Programmer.exe</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/TGA Programmer/data</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{472646BC-B95B-43BD-B8A3-B6CA4C524E56}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/TGA_Main.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">TGA Programmer</Property>
+				<Property Name="TgtF_internalName" Type="Str">TGA Programmer</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2025 </Property>
+				<Property Name="TgtF_productName" Type="Str">TGA Programmer</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{3582C000-3561-46D1-8D32-45A470E84FC4}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">TGA Programmer.exe</Property>
+			</Item>
 			<Item Name="TGA_Config_Editor" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{D5A276BA-DBB3-41D3-A700-0BDF9E246C8B}</Property>
