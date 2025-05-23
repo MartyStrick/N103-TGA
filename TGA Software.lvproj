@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="disp2000.ttf" Type="Document" URL="../other resources/disp2000.ttf"/>
+		<Item Name="Door lock output.vi" Type="VI" URL="../TGA_Furnace_v230504.llb/Door lock output.vi"/>
 		<Item Name="Euro_Cmd_cluster_2.ctl" Type="VI" URL="../TGA_Furnace_v230504.llb/Euro_Cmd_cluster_2.ctl"/>
 		<Item Name="Euro_Data_cluster2.ctl" Type="VI" URL="../TGA_Furnace_v230504.llb/Euro_Data_cluster2.ctl"/>
 		<Item Name="Euro_Programmer_Writes.vi" Type="VI" URL="../TGA_Furnace_v230504.llb/Euro_Programmer_Writes.vi"/>
