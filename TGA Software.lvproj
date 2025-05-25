@@ -11,12 +11,14 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="disp2000.ttf" Type="Document" URL="../other resources/disp2000.ttf"/>
+		<Item Name="DO3.vi" Type="VI" URL="../TGA_Furnace_v230504.llb/DO3.vi"/>
 		<Item Name="Door lock output.vi" Type="VI" URL="../TGA_Furnace_v230504.llb/Door lock output.vi"/>
 		<Item Name="Euro_Cmd_cluster_2.ctl" Type="VI" URL="../TGA_Furnace_v230504.llb/Euro_Cmd_cluster_2.ctl"/>
 		<Item Name="Euro_Data_cluster2.ctl" Type="VI" URL="../TGA_Furnace_v230504.llb/Euro_Data_cluster2.ctl"/>
 		<Item Name="Euro_Programmer_Writes.vi" Type="VI" URL="../TGA_Furnace_v230504.llb/Euro_Programmer_Writes.vi"/>
 		<Item Name="Eurotherm_3200_Programmer.vi" Type="VI" URL="../TGA_Furnace_v230504.llb/Eurotherm_3200_Programmer.vi"/>
 		<Item Name="Eurotherm_IO_Loop.vi" Type="VI" URL="../TGA_Furnace_v230504.llb/Eurotherm_IO_Loop.vi"/>
+		<Item Name="Lock Door.vi" Type="VI" URL="../TGA_Furnace_v230504.llb/Lock Door.vi"/>
 		<Item Name="Radwag_Cmd_Error_Dialog.vit" Type="VI" URL="../Radwag_Cmd_Error_Dialog.vit"/>
 		<Item Name="Test_Adam_Out_Loop.vi" Type="VI" URL="../Test_Adam_Out_Loop.vi"/>
 		<Item Name="TGA_Config_Editor.vi" Type="VI" URL="../TGA_Furnace_v230504.llb/TGA_Config_Editor.vi"/>
