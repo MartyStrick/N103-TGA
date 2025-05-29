@@ -343,11 +343,10 @@
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/TGA_icon.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{C10463F5-7155-4BF2-ACAE-D48216210E47}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{E670334F-55A5-41F7-AE60-7A8583403AC4}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Radwag_Cmd_Error_Dialog.vit</Property>
-				<Property Name="Source[1].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[2].itemID" Type="Ref">/My Computer/TGA_Main.vi</Property>
